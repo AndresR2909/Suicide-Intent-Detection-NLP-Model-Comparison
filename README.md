@@ -1,4 +1,5 @@
 **Suicide Intent Detection: NLP Model Comparison**
+
 This project compares several approaches for detecting suicidal intentions in online text. It evaluates the effectiveness and efficiency of different models in the context of suicide intent detection, utilizing techniques like zero-shot, few-shot, and fine-tuning.
 
 Approaches
