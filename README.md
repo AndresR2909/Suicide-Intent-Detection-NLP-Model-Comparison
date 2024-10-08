@@ -5,7 +5,7 @@ This project compares several approaches for detecting suicidal intentions in on
 **Training Dataset**
 
 The dataset consists of comments from several sources translated to Spanish language and classified as suicidal ideation/behavior and non-suicidal.
-[source]([Fine_tune_bert.ipynb](https://huggingface.co/datasets/PrevenIA/spanish-suicide-intent))
+[source](https://huggingface.co/datasets/PrevenIA/spanish-suicide-intent)
   
 
 The following four approaches are implemented and compared in this project:
