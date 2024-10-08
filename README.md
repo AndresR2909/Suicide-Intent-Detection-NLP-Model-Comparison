@@ -2,6 +2,11 @@
 
 This project compares several approaches for detecting suicidal intentions in online text. It evaluates the effectiveness and efficiency of different models in the context of suicide intent detection, utilizing techniques like zero-shot, few-shot, and fine-tuning.
 
+* **Training Dataset**
+The dataset consists of comments from several sources translated to Spanish language and classified as suicidal ideation/behavior and non-suicidal.
+[source]([Fine_tune_bert.ipynb](https://huggingface.co/datasets/PrevenIA/spanish-suicide-intent))
+  
+
 The following four approaches are implemented and compared in this project:
 
 * **XGBoost with BERT Embeddings**
