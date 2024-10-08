@@ -8,7 +8,7 @@ The following four approaches are implemented and compared in this project:
   
 Tokenizes and creates text embeddings using BERT to feed into an XGBoost model for classification.
 
-* **Large Language Model (LLM): ChatGPT-4**
+* **Large Language Model (LLM): ChatGPT-4o**
   
 Utilizes ChatGPT-4 with zero-shot and few-shot learning to detect suicide intent based on online text.
 
@@ -19,3 +19,15 @@ Compares versions of LLaMA models, using zero-shot, few-shot, and fine-tuning te
 * **DistilBERT**
   
 A smaller, more efficient version of BERT. Fine-tuning is applied to tailor the model for the specific task of suicide intent detection.
+
+
+1. [XGBoost with BERT Embeddings](ml_clasical_v1.ipynb)
+2. [Large Language Model (LLM): ChatGPT-4o zero-shot and few-shot](test_model_gpt4.ipynb)
+3. [SLM Model (LLaMA 3.1 8B) zero-shot and few-shot](Llama_3_1_zero_few_shot.ipynb)
+4. [SLM Model (LLaMA 3.1 8B) fine-tuning](Fine_tuning_Llama_3_1_v3.ipynb)
+5. [SLM Model (LLaMA 3.2 3B) fine-tuning](Fine_tuning_Llama_3_2_v2.ipynb)
+6. [DistilBERT fine-tuning](Fine_tune_bert.ipynb)
+
+* **Metrics Summary**
+
+* ![Diagrama de flujo](data/comparacion.png)
