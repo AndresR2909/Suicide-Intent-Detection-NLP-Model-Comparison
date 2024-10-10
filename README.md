@@ -36,4 +36,4 @@ A smaller, more efficient version of BERT. Fine-tuning is applied to tailor the 
 
 * **Metrics Summary**
 
-* ![Diagrama de flujo](data/comparacion.png)
+ ![Diagrama de flujo](data/comparacion.png)
