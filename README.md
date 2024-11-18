@@ -36,4 +36,8 @@ A smaller, more efficient version of BERT. Fine-tuning is applied to tailor the 
 
 * **Metrics Summary**
 
- ![Diagrama de flujo](data/comparacion.png)
+ ![Metric Evaluation](data/comparacion.png)
+
+ * **Inference Cost and Time Summary**
+![Inference Cost and time Evaluation](data/inferencia_costo_tiempo.png )
+
